@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ListarAlunosPorLetraInicial.java&apos; to &apos;JavaAgenda/src/orm.actions&apos;&#x0D;&#x0A;- Original project: &apos;teste2&apos;&#x0D;&#x0A;- Destination element: &apos;JavaAgenda/src/orm.actions&apos;&#x0D;&#x0A;- Original element: &apos;orm.actions.ListarAlunosPorLetraInicial.java&apos;" description="Copy compilation unit" destination="=JavaAgenda/src&lt;orm.actions" element1="/src&lt;orm.actions{ListarAlunosPorLetraInicial.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1701382888269" units="1" version="1.0"/>
+</session>
